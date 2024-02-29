@@ -1,2 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Pantalla elegante</string>
+    <string name="email">correo electrónico</string>
+    <string name="extension">Extensión</string>
+    <string name="department">Departamento</string>
+    <string name="supervisor">Supervisor</string>
+    <string name="direct_reports">Reportes directos</string>
+</resources>
